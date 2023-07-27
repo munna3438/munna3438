@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Md Mahudur Rahman Munna
-  <>
-  <p>hello world</p>
-  </>
+  <p>MERN Stack Web Developer & WordPress Expert</p>
 </h2>
 <h2 align="center">MERN Stack Web Developer & WordPress Expert</h2>
 
