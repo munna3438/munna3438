@@ -3,7 +3,7 @@
 
 <h2>💫 About Me:</h2>
 
-💼 Professional Summary: Hi there! I'm Md Mashudur Rahman Munna, I am a full stack web developer with a focus on the MERN stack. In addition to my MERN skills, I also have extensive experience with WordPress. I combine creativity and technical expertise to deliver seamless digital solutions.<br><br>📚 A Learning Mindset: I'm committed to staying ahead of the curve in the ever-evolving world of web development. I constantly seek out new tools, technologies, and best practices to deliver cutting-edge solutions to my clients.<br><br>🧩 Passion for Problem Solving: I love unraveling complex challenges and translating them into innovative solutions. My attention to detail and analytical approach enable me to identify and address potential issues proactively.<br><br>🎯 Career Goals:<br> •Contribute to open-source projects<br> • Collaborate on challenging and rewarding web projects<br> • To learn new technologies and stay up-to-date on the latest trends in web development<br><br>🌟 Open to Opportunities: I am confident that I have the skills and experience necessary to be a valuable asset to your team. I am looking for a challenging and rewarding opportunity to use my skills to build innovative and user-friendly web applications.<br>Looking forward to connecting and discussing how we can create remarkable digital experiences together. Feel free to reach out!
+💼 Professional Summary: Hi there! I'm Md Mashudur Rahman Munna, I am a full stack web developer with a focus on the MERN stack. In addition to my MERN skills, I also have extensive experience with WordPress. I combine creativity and technical expertise to deliver seamless digital solutions.<br><br>📚 A Learning Mindset: I'm committed to staying ahead of the curve in the ever-evolving world of web development. I constantly seek out new tools, technologies, and best practices to deliver cutting-edge solutions to my clients.<br><br>🧩 Passion for Problem Solving: I love unraveling complex challenges and translating them into innovative solutions. My attention to detail and analytical approach enable me to identify and address potential issues proactively.<br><br>🎯 Career Goals:<br> • Contribute to open-source projects<br> • Collaborate on challenging and rewarding web projects<br> • To learn new technologies and stay up-to-date on the latest trends in web development<br><br>🌟 Open to Opportunities: I am confident that I have the skills and experience necessary to be a valuable asset to your team. I am looking for a challenging and rewarding opportunity to use my skills to build innovative and user-friendly web applications.<br>Looking forward to connecting and discussing how we can create remarkable digital experiences together. Feel free to reach out!
 
 <h2>🌐 Socials:</h2>
 
@@ -26,6 +26,29 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=munna3438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+
+
+
+### Hi there 👋, I'm Md Mashudur Rahman Munna
+#### A full stack web developer & wordpress Expert
+![A full stack web developer & wordpress Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
+
+- 🔭 I’m currently working on Ecommerce Web site 
+- 🌱 I’m currently learning MERN Stack Development 
+- 💬 Feel free to ask me anything about web development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/munna3438)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub metrics](https://metrics.lecoq.io/munna3438)  
 
 
 
