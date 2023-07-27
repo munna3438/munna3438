@@ -27,14 +27,14 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=munna3438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-- 🔭 I’m currently working on Ecommerce Web site 
-- 🌱 I’m currently learning MERN Stack Development 
-- 💬 Feel free to ask me anything about web development 
+<h2>🚀 GitHub Metrics:</h2>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![GitHub metrics](https://metrics.lecoq.io/munna3438)  
 
 
+- 🔭 I’m currently working on Ecommerce Web site 
+- 🌱 I’m currently learning MERN Stack Development 
+- 💬 Feel free to ask me anything about web development 
 
