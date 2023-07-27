@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Md Mahudur Rahman Munna</h1>
-<h5 align="center">A passionate MERN Stack developer and Wordpress Expert from Bangladesh</h3>
+<h5 align="center">MERN Stack Web Developer & WordPress Expert</h3>
 
 <h2>💫 About Me:</h2>
 
