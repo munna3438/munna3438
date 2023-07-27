@@ -1,7 +1,6 @@
-<h2 align="center">Hi 👋, I'm Md Mahudur Rahman Munna</h1>
-<h5 align="center">MERN Stack Web Developer & WordPress Expert</h3>
-### Hi 👋, I'm Md Mahudur Rahman Munna
-MERN Stack Web Developer & WordPress Expert
+<h2 align="center">Hi 👋, I'm Md Mahudur Rahman Munna</h2>
+<h2 align="center">MERN Stack Web Developer & WordPress Expert</h2>
+
 <h2>💫 About Me:</h2>
 
 💼 Professional Summary: Hi there! I'm Md Mashudur Rahman Munna, I am a full stack web developer with a focus on the MERN stack. In addition to my MERN skills, I also have extensive experience with WordPress. I combine creativity and technical expertise to deliver seamless digital solutions.<br><br>📚 A Learning Mindset: I'm committed to staying ahead of the curve in the ever-evolving world of web development. I constantly seek out new tools, technologies, and best practices to deliver cutting-edge solutions to my clients.<br><br>🧩 Passion for Problem Solving: I love unraveling complex challenges and translating them into innovative solutions. My attention to detail and analytical approach enable me to identify and address potential issues proactively.<br><br>🎯 Career Goals:<br> • To work on challenging and rewarding projects that use my skills and experience<br> • To contribute to the development of innovative and user-friendly web applications<br> • To learn new technologies and stay up-to-date on the latest trends in web development<br><br>🌟 Open to Opportunities: I am confident that I have the skills and experience necessary to be a valuable asset to your team. I am looking for a challenging and rewarding opportunity to use my skills to build innovative and user-friendly web applications.<br>Looking forward to connecting and discussing how we can create remarkable digital experiences together. Feel free to reach out!
