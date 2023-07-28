@@ -1,4 +1,4 @@
-![](https://ibb.co/PtsHC77)
+![](https://i.ibb.co/g6bKg55/Screenshot-from-2023-07-28-22-02-19.png)
 <h2 align="center">Hi 👋, I'm Md Mahudur Rahman Munna</h2>
 <h4 align="center">MERN Stack Web Developer & WordPress Expert</h4>
 
