@@ -24,10 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=munna3438&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=munna3438&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>🏆 GitHub Trophies:</h2>
 
-
-![](https://github-profile-trophy.vercel.app/?username=munna3438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2>🚀 GitHub Metrics:</h2>
 
@@ -36,5 +33,6 @@
 
 - 🔭 I’m currently working on Ecommerce Web site 
 - 🌱 I’m currently learning MERN Stack Development 
-- 💬 Feel free to ask me anything about web development 
+- 💬 Feel free to ask me anything about web development
+- 🔗 My portfolio link: https://developermrmmunna.netlify.app/
 
